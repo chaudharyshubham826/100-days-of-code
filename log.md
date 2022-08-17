@@ -17,8 +17,23 @@
 
 ### Day 2: August 15, 2022
 
+**Today's Progress**: Did few questions on InterviewBit. Started graphs.
+
+**Thoughts:** A single question took a lot of time. Will time from now on.
+
+**Link(s) to work:** 
+1. [Sliding Window Maximum](https://www.interviewbit.com/problems/sliding-window-maximum/)
 
 
-### Day 1: June 27, Monday
+### Day 3: August 16, 2022, Tuesday
+
+**Today's Progress**: Missed it:(
+
+**Thoughts:** Morning and Evening sessions for consistency. Will onboard my friends as well. Will start fst track CPP and Python just for revision.
 
 
+### Day 4: August 17, 2022, Wednesday
+
+**Today's Progress**: 
+
+**Thoughts:** 
