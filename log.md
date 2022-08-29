@@ -3,9 +3,9 @@
 ### Day 1: August 14, 2022
 <!-- ##### (delete me or comment me out) -->
 
-**Today's Progress**: Went through easy questions on stacks and queues on InterviewBit. Refreshing... Gone through few tutorials on C++
+**Today's Progress**: 
 
-**Thoughts:** Felt good today, finally starting. Instead of focussing on multiple things like C++ question, theoretical C++, algorithmic questions, OOPS together, I should instead focus on one thing in a day. C++ prep did help though. Going to tweet:)
+**Thoughts:** 
 
 **Link(s) to work:** 
 1. [C++ Intro and Flow Control](https://www.interviewbit.com/courses/fast-track-cpp/)
@@ -17,9 +17,9 @@
 
 ### Day 2: August 15, 2022
 
-**Today's Progress**: Did few questions on InterviewBit. Started graphs.
+**Today's Progress**:
 
-**Thoughts:** A single question took a lot of time. Will time from now on.
+**Thoughts:** 
 
 **Link(s) to work:** 
 1. [Sliding Window Maximum](https://www.interviewbit.com/problems/sliding-window-maximum/)
@@ -29,7 +29,7 @@
 
 **Today's Progress**: Missed it:(
 
-**Thoughts:** Morning and Evening sessions for consistency. Will onboard my friends as well. Will start fst track CPP and Python just for revision.
+**Thoughts:** 
 
 
 ### Day 4: August 17, 2022, Wednesday
